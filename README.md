@@ -1,10 +1,10 @@
 "# Union-de-docx" 
 
-## General Info
+# General Info
 
 script to merge multiple word files into one
 
 
-# install requirements
+## install requirements
 
 	pip install -r Requirements.txt
