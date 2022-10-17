@@ -2,7 +2,7 @@
 
 # General Info
 
-script to merge multiple word files into one
+Script to merge multiple word files into one.
 
 
 ## install requirements
